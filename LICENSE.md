@@ -4,13 +4,13 @@ Copyright (SapphireSlash)
 
 This license allows for images to be distributed, embedded and integrated in an unmodified form.
 
-**Usage Rights**
+## Usage Rights
 
 You may distribute these images, embed them into a website or integrate them into a video or photo in it’s unmodified form.
 
 When doing any of those things you have to credit the copyright holder in some way shape or form.
 
-**Restrictions**
+## Restrictions
 
 You may not modify these images in any way shape or form or sell the images in any form, unless you get permission from the copyright holder to do so.
 
