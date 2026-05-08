@@ -1,4 +1,4 @@
-SapphireSlash Image License v.1.0
+# SapphireSlash Image License v.1.0
 
 Copyright (SapphireSlash)
 
