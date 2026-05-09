@@ -1,6 +1,6 @@
 # SapphireSlash Image License v.1.0
 
-Copyright © (Year) (Copyright Holder/Holders)
+Copyright © 2026 (SapphireSlash)
 
 This license allows for images to be distributed, embedded and integrated in an unmodified form.
 
