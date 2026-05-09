@@ -1,6 +1,6 @@
 # SapphireSlash Image License v.1.0
 
-Copyright © 2026 (SapphireSlash)
+Copyright © (Year) (Copyright Holder/Holders)
 
 This license allows for images to be distributed, embedded and integrated in an unmodified form.
 
@@ -14,11 +14,11 @@ When doing any of those things you have to credit the copyright holder/holders i
 
 ## Restrictions
 
-You may not modify and/or sell these images in any form, unless you get permission from the copyright holder/holders to do so.
+You may not modify and/or sell these images in any form, unless you get permission from the copyright holder/holders to do so. If you get permission from the copyright holder/holders to modify the/these image/images, you have to put it under the same license.
 
 You also shouldn’t put these images into an AI.
 
-If you do any of these restrictions, the license will be terminated.
+If you do any of these restrictions without following the instructions (if there are any), the license will be terminated.
 
 ## Copying
 
