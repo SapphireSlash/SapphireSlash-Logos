@@ -1,7 +1,7 @@
-SapphireSlash No Derivatives License 1.0
+SapphireSlash Non-Software License No Derivatives v.1.0
 
 By exercising the Licensed Rights (defined below), You accept and agree
-to be bound by the terms and conditions of the SapphireSlash No Derivatives License ("Public
+to be bound by the terms and conditions of the SapphireSlash Non-Software License No Derivatives ("Public
 License"). To the extent this Public License may be interpreted as a
 contract, You are granted the Licensed Rights in consideration of Your
 acceptance of these terms and conditions, and the Licensor grants You
